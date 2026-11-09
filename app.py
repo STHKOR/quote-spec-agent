@@ -18,7 +18,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.6-flash"
 UNKNOWN = "확인 필요"
 SPEC_FIELDS = [
     "브랜드", "분류", "CPU", "RAM", "저장장치",
